@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi I am Dhikantara Aswin Pradnyana 👋
+![Header](./[Your header image])
+
+
+#### **Programming Languages & Tools Currently Used**
+
 
 <!--
 **NotFound-402/NotFound-402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
