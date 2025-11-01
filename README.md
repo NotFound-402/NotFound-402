@@ -1,6 +1,8 @@
-## Hi I am Dhikantara Aswin Pradnyana 👋
-![Header](/github-header-banner.png)
-
+<!-- ## Hi I am Dhikantara Aswin Pradnyana 👋
+![Header](/github-header-banner.png) -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi,+My+Name+is+Dhikantara+Aswin+Pradnyana!;I+am+a+Web+Developer;and+Mobile+Developer" alt="Typing SVG" />
+</div>
 
 #### **Programming Languages & Tools Currently Used:**
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,c)](https://skillicons.dev)
