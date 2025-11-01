@@ -13,6 +13,10 @@
 
 #### **Contact Me**
 
+<div align="center">
+
+### 🌐 Connect with me  
+
 <!-- Instagram Personal -->
 <a href="https://www.instagram.com/dhikkaaaaaaaaaa/" target="_blank">
   <img src="https://img.icons8.com/fluency/48/instagram-new.png" 
@@ -20,18 +24,20 @@
 </a>
 
 <!-- Discord -->
-<a href="https://discord.gg/kiyzuuu" target="_blank">
+<a href="https://discord.gg/invitekode" target="_blank">
   <img src="https://img.icons8.com/color/48/discord--v2.png" 
   alt="Discord" width="45" height="45" style="margin-right: 70px;"/>
 </a>
 
 
 <!-- GitHub Projects -->
-<a href="[https://github.com/NotFound-402/NotFound-402]" target="_blank">
+<a href="https://github.com/https://github.com/NotFound-402" target="_blank">
   <img src="https://cdn.simpleicons.org/github/FFFFFF" 
        alt="GitHub Projects" width="45" height="45" style="margin-right: 70px;"/>
 </a>
 
+
+</div>
 <!--
 **NotFound-402/NotFound-402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
