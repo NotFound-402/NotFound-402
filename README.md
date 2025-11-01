@@ -31,7 +31,7 @@
 
 
 <!-- GitHub Projects -->
-<a href="https://github.com/https://github.com/NotFound-402" target="_blank">
+<a href="https://github.com/NotFound-402" target="_blank">
   <img src="https://cdn.simpleicons.org/github/FFFFFF" 
        alt="GitHub Projects" width="45" height="45" style="margin-right: 70px;"/>
 </a>
