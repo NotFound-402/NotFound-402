@@ -11,10 +11,6 @@
 [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
 
 
-
-
-#### **Contact Me**
-
 <div align="center">
 
 ### 🌐 Connect with me  
