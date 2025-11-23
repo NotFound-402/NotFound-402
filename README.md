@@ -1,5 +1,5 @@
-<!-- ## Hi I am Dhikantara Aswin Pradnyana 👋
-![Header](/github-header-banner.png) -->
+<!-- ## Hi I am Dhikantara Aswin Pradnyana 👋-->
+![Header](/github-header-banner.png)
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi,+My+Name+is+Dhikantara+Aswin+Pradnyana!;I+am+a+Web+Developer;and+Mobile+Developer" alt="Typing SVG" />
 </div>
