@@ -16,7 +16,7 @@ I'am a Web Developer And Mobile Apps
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NotFound-402&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Titik+Koma+Aja+Aku+Perhatiin+Apalagi+kamu&type=horizontal&theme=dark)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Titik+Koma+Aja+Aku+Perhatiin+Apalagi+kamu&type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NotFound-402&icon=5&color=0)](https://visitcount.itsvg.in)
